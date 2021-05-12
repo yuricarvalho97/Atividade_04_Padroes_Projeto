@@ -14,3 +14,7 @@ Este princípio está presente, pois é possível introduzir novos handles na ap
 ### Observer
 * <b>Princípio aberto/fechado:</b>
 Este princípio está presente, pois é possível introduzir novas classes assinantes sem a necessidade de mudar o código da publicadora (se existir uma interface publicadora o inverso também é possível).
+
+#### REFERÊNCIAS:
+* https://refactoring.guru/
+
